@@ -1,5 +1,5 @@
-![avatar](https://github.com/sp114514810/sp114514810/blob/master/image.jpg)
-
+![avatar](https://github.com/sp114514810/sp114514810/blob/main/image.jpg)
+image from @Argodeonn
 <!--
 [![sp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp114514810&cache_seconds=7200&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/sp114514810)
 [![sp's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp114514810&layout=compact)](https://github.com/sp114514810)
